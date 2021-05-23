@@ -1,7 +1,7 @@
 # Hackpad
 A tablet designed from scratch to be open and repairable.
 
-### Current hardware core (Nvidia Jetson Xavier NX Dev-Kit)
+## Current hardware core (Nvidia Jetson Xavier NX Dev-Kit)
 
 ### Feature Wishlist
 
