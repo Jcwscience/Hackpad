@@ -1,6 +1,7 @@
 # J-Phone
-A smartphone designed from scratch to be open and repairable.
+A tablet designed from scratch to be open and repairable.
 
+### Current hardware core (Nvidia Jetson Xavier NX Dev-Kit)
 
 ### Feature Wishlist
 
