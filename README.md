@@ -1,4 +1,4 @@
-# J-Phone
+# Hackpad
 A tablet designed from scratch to be open and repairable.
 
 ### Current hardware core (Nvidia Jetson Xavier NX Dev-Kit)
