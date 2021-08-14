@@ -21,3 +21,6 @@ A tablet designed from scratch to be open and repairable.
 * Standard and e-ink displays
 * Fingerprint scanner
 * External antenna support
+
+### Current Parts List
+12x - Samsung 35-E 18650 Lithium-Ion
