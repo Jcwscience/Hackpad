@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name SnapEdaLib)(type KiCad)(uri /home/john/SnapEdaLib)(options "")(descr ""))
+)
